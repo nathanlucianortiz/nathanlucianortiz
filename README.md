@@ -26,10 +26,9 @@ Welcome! I'm Nathan Ortiz | <img align="center" height="18px" src="https://wakat
 </div>
 <hr/>
 
-- 🔭 I’m currently working on my coding skills.
-- 🌱 I’m currently learning data structures and algorithms.
+- 🔭 I’m currently working on my coding skills in relation to accessibility.
+- 🌱 I’m currently learning the best practices of using ARIA.
 - 👯 I’m looking to collaborate on a project with like-minded individuals focused on inclusion.
-- 🤔 I’m looking for help with learning how to incorporate accessibility and inclusion in software.
 - 💬 Ask me about why I became a software engineer.
 - 📫 How to reach me: https://www.linkedin.com/in/nathanlucianortiz/
 - 😄 Pronouns: He/Him/His
