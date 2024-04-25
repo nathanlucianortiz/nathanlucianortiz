@@ -26,11 +26,6 @@ Welcome! I'm Nathan Ortiz | <img align="center" height="18px" src="https://wakat
 </div>
 <hr/>
 
-- 🏳️‍⚧️ I’m currently working on building a web guide for users to create inclusive forms and documents for the trans community.
-- 🌱 I’m currently learning the best practices of using ARIA.
-- 👯 I’m looking to join an awesome team as a front end or full stack engineer.
-- 💬 Ask me about why I became a software engineer.
 - 📫 How to reach me: https://www.linkedin.com/in/nathanlucianortiz/
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I love to play piano and write my own music!
 -->
