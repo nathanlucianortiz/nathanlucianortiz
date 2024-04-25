@@ -26,6 +26,7 @@ Welcome! I'm Nathan Ortiz | <img align="center" height="18px" src="https://wakat
 </div>
 <hr/>
 
+<!-- 
 - 📫 How to reach me: https://www.linkedin.com/in/nathanlucianortiz/
 - 😄 Pronouns: He/Him/His
 -->
